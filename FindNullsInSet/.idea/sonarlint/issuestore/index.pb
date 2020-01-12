@@ -7,3 +7,6 @@ E
 src/StudyKFunction.kt,6\1\61a691f56f8cd6edd0fa9b15b66f0b84ba4118d1
 G
 src/LambdaExpression.kt,b\8\b8cfd940efcd0c66a2317c5908469a0423a0bf33
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

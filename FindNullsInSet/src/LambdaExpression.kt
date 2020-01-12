@@ -44,20 +44,3 @@ fun expBySquare(_b: Int, _e: Int): Double {
         }
     }
 }
-
-fun testExpBySquare() {
-    val p = ::expBySquare
-    println(p)
-    println(p(5, 7))
-    println(String.format("%.7f", p(5, -7)))
-
-    // curiosidade, se eu passar a referencia da funcao para uma variavel
-    // vou ter que especificar
-    val q = ::fn4
-    println(String.format("%.7f", q(5, -7, ::expBySquare)))
-    println(String.format("%.7f", q(5, -7) { _p, _q -> (_p * _q).toDouble() }))
-}
-
-fun main() {
-    testExpBySquare()
-}
