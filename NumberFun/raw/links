@@ -1,0 +1,14 @@
+// esse projeto tem o objetivo de explorar as formas de se construir funcoes
+// em kotlin (lambda expression, anonymous function, partial function e o que mais aparecer)
+// e aplicar essas ideias a problemas matematicos.
+// Vou separar as funcoes em packages de acordo com o assunto (teoria dos numeros, geometria, series e o
+// que mais vier naminha cabeca)
+
+// links sobre teoria dos numeros
+https://www.geeksforgeeks.org/modular-division/
+
+Adicao e subtracao modular
+https://pt.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction
+https://www.doc.ic.ac.uk/~mrh/330tutor/ch03.html
+
+=======================================================
