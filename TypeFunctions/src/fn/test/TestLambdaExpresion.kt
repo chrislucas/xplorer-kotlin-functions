@@ -1,4 +1,4 @@
-package test
+package fn.test
 
 import expBySquare
 import fn4
@@ -12,7 +12,6 @@ fun testExpBySquare() {
     println(p(5, -7).format("%.7f"))
     println(expBySquare(5, 27).format("%.7f"))
 }
-
 fun testFn4() {
     // curiosidade, se eu passar a referencia da funcao para uma variavel
     // vou ter que especificar

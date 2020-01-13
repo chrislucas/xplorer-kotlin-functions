@@ -1,6 +1,3 @@
-import VerifyArgsExt.simpleVerifyArgs
-import VerifyArgsExt.verifyArgs
-
 object VerifyArgsExt {
     @JvmStatic
     inline fun <reified T : Any, reified R> verifyArgs(

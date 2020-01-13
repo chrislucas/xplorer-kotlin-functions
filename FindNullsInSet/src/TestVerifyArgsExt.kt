@@ -1,8 +1,5 @@
-package test
-
 import VerifyArgsExt.simpleVerifyArgs
 import VerifyArgsExt.verifyArgs
-import findIndexNull
 
 data class User(val id: Int, val name: String)
 
